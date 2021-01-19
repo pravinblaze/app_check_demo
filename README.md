@@ -1,1 +1,1 @@
-# Master
+# Checklist demo app
